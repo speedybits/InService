@@ -1,0 +1,24 @@
+#map {
+    height: 70vh;
+    width: 100%;
+}
+
+#status-panel {
+    padding: 20px;
+    text-align: center;
+}
+
+button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.in-service {
+    color: green;
+}
+
+.out-of-service {
+    color: red;
+} 
